@@ -33,7 +33,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ohepworthbell/quickstart.git"
+    "url": "git+ssh://git@github.com:ohepworthbell/quickstart.git"
   },
   "keywords": [
     "quickstart",
