@@ -4,7 +4,7 @@
   "description": "A template repo for rapid prototyping, using webpack/SCSS/HTML",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.config.dev.js",
+    "start": "webpack-dev-server --config webpack.config.dev.js --client-log-level warning",
     "build": "webpack --config webpack.config.prod.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
